@@ -1,0 +1,16 @@
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\bin\Debug\net5.0\checker.exe
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\bin\Debug\net5.0\checker.deps.json
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\bin\Debug\net5.0\checker.runtimeconfig.json
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\bin\Debug\net5.0\checker.runtimeconfig.dev.json
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\bin\Debug\net5.0\checker.dll
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\bin\Debug\net5.0\ref\checker.dll
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\bin\Debug\net5.0\checker.pdb
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.csproj.AssemblyReference.cache
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.AssemblyInfoInputs.cache
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.AssemblyInfo.cs
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.csproj.CoreCompileInputs.cache
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.dll
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\ref\checker.dll
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.pdb
+D:\Purab-Dont Delete\Trainings\Architecture-Venugopal\bms-monitor-csharp-PurabKumarDas\Checker\obj\Debug\net5.0\checker.genruntimeconfig.cache
